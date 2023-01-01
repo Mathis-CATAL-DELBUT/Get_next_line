@@ -1,4 +1,4 @@
-# Get_next_line + Subject + Tester
+# Get_next_line + Subject + Tester + Correction subject
 
 It will make you learn a highly interesting new concept in C programming: static variables
 
